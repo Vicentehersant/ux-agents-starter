@@ -1,3 +1,5 @@
+![ux-agents-starter](banner.png)
+
 # UX Agents Starter
 
 **A team of UX specialists inside Claude Code — install in 2 minutes, ship better design today.**
