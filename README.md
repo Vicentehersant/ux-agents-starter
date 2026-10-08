@@ -40,7 +40,7 @@ flowchart TD
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-user>/ux-agents-starter.git
+git clone https://github.com/Vicentehersant/ux-agents-starter.git
 # 2. Install into your project (never overwrites unless you pass --force)
 ./ux-agents-starter/install.sh /path/to/your-project
 # 3. Open your project in Claude Code
